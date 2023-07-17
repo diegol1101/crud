@@ -1,0 +1,38 @@
+{
+    "Rutas": [
+        {
+            "Id": 1,
+            "NomRuta": "Cafetera"
+        },
+        {
+            "Id": 2,
+            "NomRuta": "Del Sol"
+        }
+    ],
+    "Puntos": [
+        {
+            "Id": 1,
+            "NomPuntos": "Manizales",
+            "RutaId": 1,
+            "Imagen": "https://colombia.com/bucaramanga.jpg"
+        },
+        {
+            "Id": 2,
+            "NomPuntos": "Armenia",
+            "RutaId": 1,
+            "Imagen": "https://colombia.com/barranca.jpg"
+        },
+        {
+            "Id": 3,
+            "NomPuntos": "Tunja",
+            "RutaId": 2,
+            "Imagen": "https://colombia.com/bogota.jpg"
+        },
+        {
+            "Id": 4,
+            "NomPuntos": "Bucaramanga",
+            "RutaId": 2,
+            "Imagen": "https://colombia.com/cajica.jpg"
+        }
+    ]
+}
